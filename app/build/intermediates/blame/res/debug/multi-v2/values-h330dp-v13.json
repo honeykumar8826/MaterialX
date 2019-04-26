@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/appinventiv/Downloads/MaterialX/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h330dp-v13/values-h330dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/appinventiv/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/54bbccd273fbdd20d1df5d02628ab960/res/values-h330dp-v13/values-h330dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,125",
+                        "endColumns": "69,56",
+                        "endOffsets": "120,177"
+                    }
+                }
+            ]
+        }
+    ]
+}

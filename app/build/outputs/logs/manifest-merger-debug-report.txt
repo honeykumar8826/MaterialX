@@ -1,0 +1,1540 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+MERGED from [com.wdullaer:materialdatetimepicker:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/54bbccd273fbdd20d1df5d02628ab960/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:design:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/96876ee8be2ba5513f398d27cfb74f37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.5] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.5.aar/bc5cfdb6c894105c6df7794940b7a5e0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.crystal:crystalrangeseekbar:1.1.3] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/crystalrangeseekbar-1.1.3.aar/19ed9995c435b470ef619c91379ffaf9/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fa77c8a020d454cc13f1756a2db68601/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/64b3559054222d19f454f9c4fa9928e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/70d629851f1d9399f078daad3408a59a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/c06bae46246d1ad3ef6f31d6b51f3c19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c19f4fb66fd7babea5c838cbedb60e59/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c86791ef0acdbcb534de560818aafc7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2050bc1720baafb654e2e66c82a91ac7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/c79bebd6d70e7a68a5901d61d5ed2c03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:17:1-32:12
+MERGED from [com.balysv:material-ripple:1.0.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/e39f52c84ebc94b81228a285201f230a/AndroidManifest.xml:2:1-14:12
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/circularimageview-3.2.0.aar/86b95e11b2e0ebfc1d2f3489e54764e7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.hootsuite.android:nachos:1.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/nachos-1.1.1.aar/de78c88f41f8d1613be3c3f2cb40bdb0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android:flexbox:0.3.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/flexbox-0.3.2.aar/5f229f62d812b3afc6c85c595a026611/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/5e3bb961c0765b5b48242135451fa377/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/d630ff6c57307763d1369d3e3ad9c2eb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c99f066f11e11457d8ec7155fa2de9a8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b202dcd5e65da26b5b24245136d20f71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bc0517571293470d8692130dabd2c09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/67aa9a1d0b2206e0fb08ced21c811ef5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d93e0b2ec8c48827854fa85553e80ad9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3eb7001e3128932e81f7cc1bc08c5a53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.5.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/da2f1186d5a7ec682267b3962ad1fb8a/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3b4b51c1c37f508a1ab24665303cea7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5376f187190e004af2169e91f3b608f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/c0bc107829b24bd677fd41bd75f8aeb8/AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/6627805fb95ef7b60aeb81d07fad3c09/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4bcc48127e984fe5781cb10621598d48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6bcb22a14ae9cb063e8a6b821a666dfa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e68f2d5464b154af31bae97ad1760eaa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/64577ec3ee5b3fe30908ea635b109b1a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+	package
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:1-683:12
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:8:5-681:19
+MERGED from [com.wdullaer:materialdatetimepicker:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/54bbccd273fbdd20d1df5d02628ab960/AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/54bbccd273fbdd20d1df5d02628ab960/AndroidManifest.xml:28:5-20
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.5] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.5.aar/bc5cfdb6c894105c6df7794940b7a5e0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.5] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.5.aar/bc5cfdb6c894105c6df7794940b7a5e0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.crystal:crystalrangeseekbar:1.1.3] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/crystalrangeseekbar-1.1.3.aar/19ed9995c435b470ef619c91379ffaf9/AndroidManifest.xml:11:5-15:19
+MERGED from [com.crystal:crystalrangeseekbar:1.1.3] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/crystalrangeseekbar-1.1.3.aar/19ed9995c435b470ef619c91379ffaf9/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c19f4fb66fd7babea5c838cbedb60e59/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c19f4fb66fd7babea5c838cbedb60e59/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/c79bebd6d70e7a68a5901d61d5ed2c03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/c79bebd6d70e7a68a5901d61d5ed2c03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:30:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/e39f52c84ebc94b81228a285201f230a/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/e39f52c84ebc94b81228a285201f230a/AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/5e3bb961c0765b5b48242135451fa377/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/5e3bb961c0765b5b48242135451fa377/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/d630ff6c57307763d1369d3e3ad9c2eb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/d630ff6c57307763d1369d3e3ad9c2eb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c99f066f11e11457d8ec7155fa2de9a8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c99f066f11e11457d8ec7155fa2de9a8/AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/6627805fb95ef7b60aeb81d07fad3c09/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/6627805fb95ef7b60aeb81d07fad3c09/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:14:9-40
+uses-library#com.google.android.maps
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:17:9-64
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:17:23-61
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:20:9-22:55
+	android:value
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:21:13-58
+activity#com.material.components.activity.MainMenu
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:25:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.material.components.activity.bottomnavigation.BottomNavigationBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:34:13-76
+activity#com.material.components.activity.bottomnavigation.BottomNavigationShifting
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:37:13-79
+activity#com.material.components.activity.bottomsheet.BottomSheetBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:40:13-66
+activity#com.material.components.activity.bottomsheet.BottomSheetList
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:43:13-65
+activity#com.material.components.activity.button.ButtonBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:46:13-56
+activity#com.material.components.activity.card.CardBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:49:13-52
+activity#com.material.components.activity.chip.ChipBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:52:13-52
+activity#com.material.components.activity.dialog.DialogBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:55:13-56
+activity#com.material.components.activity.expansionpanel.ExpansionPanelBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:58:13-72
+activity#com.material.components.activity.gridlist.GridBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:60:9-62:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:61:13-56
+activity#com.material.components.activity.list.ListBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:64:13-52
+activity#com.material.components.activity.picker.PickerTimeDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:67:13-59
+activity#com.material.components.activity.progressactivity.ProgressBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:69:9-71:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:70:13-68
+activity#com.material.components.activity.slider.SliderLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:72:9-74:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:73:13-56
+activity#com.material.components.activity.slider.SliderDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:75:9-77:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:76:13-55
+activity#com.material.components.activity.snackbartoast.SnackbarToastBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:78:9-80:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:79:13-70
+activity#com.material.components.activity.stepper.StepperText
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:81:9-83:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:82:13-57
+activity#com.material.components.activity.tabs.TabsBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:85:13-52
+activity#com.material.components.activity.form.FormLogin
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:87:9-89:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:88:13-52
+activity#com.material.components.activity.toolbar.ToolbarBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:90:9-92:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:91:13-58
+activity#com.material.components.activity.button.FabMiddle
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:94:13-54
+activity#com.material.components.activity.button.ButtonInUtilities
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:97:13-62
+activity#com.material.components.activity.card.CardTimeline
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:99:9-101:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:100:13-55
+activity#com.material.components.activity.dialog.DialogFullscreen
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:102:9-104:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:103:13-61
+activity#com.material.components.activity.dialog.DialogCustom
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:105:9-107:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:106:13-57
+activity#com.material.components.activity.expansionpanel.ExpansionPanelTicket
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:108:9-110:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:110:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:109:13-73
+activity#com.material.components.activity.expansionpanel.ExpansionPanelInvoice
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:111:9-113:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:113:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:112:13-74
+activity#com.material.components.activity.gridlist.GridSingleLine
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:114:9-116:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:116:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:115:13-61
+activity#com.material.components.activity.gridlist.GridSectioned
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:117:9-119:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:119:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:118:13-60
+activity#com.material.components.activity.list.ListSectioned
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:120:9-122:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:122:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:121:13-56
+activity#com.material.components.activity.list.ListExpand
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:123:9-125:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:125:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:124:13-53
+activity#com.material.components.activity.list.ListDrag
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:126:9-128:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:128:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:127:13-51
+activity#com.material.components.activity.list.ListSwipe
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:129:9-131:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:131:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:130:13-52
+activity#com.material.components.activity.list.ListAnimation
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:132:9-134:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:134:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:133:13-56
+activity#com.material.components.activity.menu.MenuDrawerNews
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:135:9-137:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:137:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:136:13-57
+activity#com.material.components.activity.menu.MenuDrawerMail
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:138:9-140:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:140:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:139:13-57
+activity#com.material.components.activity.menu.MenuDrawerSimpleLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:141:9-143:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:143:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:142:13-64
+activity#com.material.components.activity.menu.MenuDrawerSimpleDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:144:9-146:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:146:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:145:13-63
+activity#com.material.components.activity.menu.MenuDrawerNoIcon
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:147:9-149:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:149:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:148:13-59
+activity#com.material.components.activity.picker.PickerDateLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:150:9-152:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:152:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:151:13-60
+activity#com.material.components.activity.picker.PickerDateDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:153:9-155:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:155:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:154:13-59
+activity#com.material.components.activity.picker.PickerTimeLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:156:9-158:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:157:13-60
+activity#com.material.components.activity.progressactivity.ProgressPullRefresh
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:159:9-161:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:161:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:160:13-74
+activity#com.material.components.activity.progressactivity.ProgressOnScroll
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:162:9-164:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:164:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:163:13-71
+activity#com.material.components.activity.progressactivity.ProgressLinearCenter
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:165:9-167:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:167:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:166:13-75
+activity#com.material.components.activity.slider.SliderColorPicker
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:168:9-170:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:170:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:169:13-62
+activity#com.material.components.activity.snackbartoast.SnackbarAndFab
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:171:9-173:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:173:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:172:13-66
+activity#com.material.components.activity.stepper.StepperVertical
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:174:9-176:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:176:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:175:13-61
+activity#com.material.components.activity.stepper.StepperProgress
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:177:9-179:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:179:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:178:13-61
+activity#com.material.components.activity.stepper.StepperWizardLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:180:9-182:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:181:13-64
+activity#com.material.components.activity.tabs.TabsIcon
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:183:9-185:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:185:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:184:13-51
+activity#com.material.components.activity.tabs.TabsTextIcon
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:186:9-188:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:188:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:187:13-55
+activity#com.material.components.activity.tabs.TabsLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:189:9-191:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:191:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:190:13-52
+activity#com.material.components.activity.tabs.TabsStore
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:192:9-194:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:194:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:193:13-52
+activity#com.material.components.activity.toolbar.ToolbarCollapse
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:195:9-197:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:197:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:196:13-61
+activity#com.material.components.activity.toolbar.ToolbarCollapsePin
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:198:9-200:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:200:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:199:13-64
+activity#com.material.components.activity.form.FormProfileData
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:201:9-203:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:203:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:202:13-58
+activity#com.material.components.activity.form.FormWithIcon
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:204:9-206:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:206:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:205:13-55
+activity#com.material.components.activity.tabs.TabsIconLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:207:9-209:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:209:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:208:13-56
+activity#com.material.components.activity.tabs.TabsIconStack
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:210:9-212:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:212:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:211:13-56
+activity#com.material.components.activity.stepper.StepperDots
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:213:9-215:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:215:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:214:13-57
+activity#com.material.components.activity.stepper.StepperWizardColor
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:216:9-218:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:218:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:217:13-64
+activity#com.material.components.activity.progressactivity.ProgressCircleCenter
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:219:9-221:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:221:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:220:13-75
+activity#com.material.components.activity.progressactivity.ProgressLinearTop
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:222:9-224:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:224:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:223:13-72
+activity#com.material.components.activity.picker.PickerColor
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:225:9-227:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:227:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:226:13-56
+activity#com.material.components.activity.picker.PickerLocation
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:228:9-230:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:230:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:229:13-59
+activity#com.material.components.activity.menu.MenuOverflowToolbar
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:231:9-233:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:233:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:232:13-62
+activity#com.material.components.activity.menu.MenuOverflowList
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:234:9-236:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:236:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:235:13-59
+activity#com.material.components.activity.list.ListMultiSelection
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:237:9-239:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:239:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:238:13-61
+activity#com.material.components.activity.gridlist.GridTwoLine
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:240:9-242:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:242:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:241:13-58
+activity#com.material.components.activity.gridlist.GridAlbums
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:243:9-245:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:245:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:244:13-57
+activity#com.material.components.activity.dialog.DialogCustomInfo
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:246:9-248:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:248:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:247:13-61
+activity#com.material.components.activity.dialog.DialogCustomWarning
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:249:9-251:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:251:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:250:13-64
+activity#com.material.components.activity.dialog.DialogCustomLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:252:9-254:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:254:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:253:13-62
+activity#com.material.components.activity.dialog.DialogAddPost
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:255:9-257:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:257:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:256:13-58
+activity#com.material.components.activity.dialog.DialogCustomDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:258:9-260:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:260:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:259:13-61
+activity#com.material.components.activity.dialog.DialogAddReview
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:261:9-263:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:263:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:262:13-60
+activity#com.material.components.activity.chip.ChipTag
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:264:9-266:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:266:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:265:13-50
+activity#com.material.components.activity.card.CardOverlap
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:267:9-269:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:269:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:268:13-54
+activity#com.material.components.activity.card.CardWizard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:270:9-272:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:272:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:271:13-53
+activity#com.material.components.activity.card.CardWizardLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:273:9-275:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:275:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:274:13-58
+activity#com.material.components.activity.button.FabMore
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:276:9-278:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:278:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:277:13-52
+activity#com.material.components.activity.button.FabMoreText
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:279:9-281:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:281:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:280:13-56
+activity#com.material.components.activity.bottomsheet.BottomSheetMap
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:282:9-284:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:284:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:283:13-64
+activity#com.material.components.activity.bottomsheet.BottomSheetFloating
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:285:9-287:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:287:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:286:13-69
+activity#com.material.components.activity.bottomsheet.BottomSheetFull
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:288:9-290:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:290:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:289:13-65
+activity#com.material.components.activity.bottomnavigation.BottomNavigationLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:291:9-293:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:293:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:292:13-76
+activity#com.material.components.activity.toolbar.ToolbarLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:294:9-296:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:296:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:295:13-58
+activity#com.material.components.activity.toolbar.ToolbarDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:297:9-299:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:299:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:298:13-57
+activity#com.material.components.activity.form.FormTextArea
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:300:9-302:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:302:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:301:13-55
+activity#com.material.components.activity.tabs.TabsScroll
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:303:9-305:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:305:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:304:13-53
+activity#com.material.components.activity.tabs.TabsDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:306:9-308:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:308:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:307:13-51
+activity#com.material.components.activity.form.FormSignUp
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:309:9-311:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:311:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:310:13-53
+activity#com.material.components.activity.gridlist.GridCaller
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:312:9-314:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:314:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:313:13-57
+activity#com.material.components.activity.bottomnavigation.BottomNavigationDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:315:9-317:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:317:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:316:13-75
+activity#com.material.components.activity.bottomnavigation.BottomNavigationIcon
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:318:9-320:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:320:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:319:13-75
+activity#com.material.components.activity.card.CardWizardOverlap
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:321:9-323:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:323:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:322:13-60
+activity#com.material.components.activity.profile.ProfilePolygon
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:324:9-326:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:326:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:325:13-60
+activity#com.material.components.activity.profile.ProfilePurple
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:327:9-329:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:329:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:328:13-59
+activity#com.material.components.activity.profile.ProfileRed
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:330:9-332:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:332:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:331:13-56
+activity#com.material.components.activity.profile.ProfileBlueAppbar
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:333:9-335:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:335:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:334:13-63
+activity#com.material.components.activity.profile.ProfileImageAppbar
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:336:9-338:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:338:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:337:13-64
+activity#com.material.components.activity.profile.ProfileDrawerImage
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:339:9-341:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:341:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:340:13-64
+activity#com.material.components.activity.profile.ProfileGallery
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:342:9-344:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:344:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:343:13-60
+activity#com.material.components.activity.profile.ProfileGalleryTwo
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:345:9-347:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:347:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:346:13-63
+activity#com.material.components.activity.profile.ProfileDrawerSimple
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:348:9-350:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:350:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:349:13-65
+activity#com.material.components.activity.noitem.NoItemArchived
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:351:9-353:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:353:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:352:13-59
+activity#com.material.components.activity.noitem.NoItemSearch
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:354:9-356:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:356:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:355:13-57
+activity#com.material.components.activity.noitem.NoItemInternetIcon
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:357:9-359:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:359:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:358:13-63
+activity#com.material.components.activity.noitem.NoItemInternetImage
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:360:9-362:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:362:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:361:13-64
+activity#com.material.components.activity.noitem.NoItemBgCity
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:363:9-365:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:365:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:364:13-57
+activity#com.material.components.activity.noitem.NoItemBgCactus
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:366:9-368:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:368:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:367:13-59
+activity#com.material.components.activity.noitem.NoItemTabs
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:369:9-371:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:371:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:370:13-55
+activity#com.material.components.activity.search.SearchToolbarLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:372:9-374:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:374:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:373:13-63
+activity#com.material.components.activity.search.SearchToolbarDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:375:9-377:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:377:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:376:13-62
+activity#com.material.components.activity.search.SearchPrimary
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:378:9-380:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:380:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:379:13-58
+activity#com.material.components.activity.search.SearchStore
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:381:9-383:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:383:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:382:13-56
+activity#com.material.components.activity.search.SearchCity
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:384:9-386:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:386:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:385:13-55
+activity#com.material.components.activity.search.SearchPrimaryBg
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:387:9-389:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:389:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:388:13-60
+activity#com.material.components.activity.search.SearchHistoryCard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:390:9-392:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:392:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:391:13-62
+activity#com.material.components.activity.shopping.ShoppingCategoryList
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:393:9-395:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:395:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:394:13-67
+activity#com.material.components.activity.tabs.TabsRound
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:396:9-398:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:398:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:397:13-52
+activity#com.material.components.activity.shopping.ShoppingCategoryCard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:399:9-401:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:401:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:400:13-67
+activity#com.material.components.activity.shopping.ShoppingCategoryImage
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:402:9-404:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:404:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:403:13-68
+activity#com.material.components.activity.shopping.ShoppingCheckoutCard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:405:9-407:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:407:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:406:13-67
+activity#com.material.components.activity.shopping.ShoppingProductGrid
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:408:9-410:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:410:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:409:13-66
+activity#com.material.components.activity.shopping.ShoppingProductDetails
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:411:9-413:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:413:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:412:13-69
+activity#com.material.components.activity.shopping.ShoppingSubCategoryTabs
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:414:9-416:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:416:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:415:13-70
+activity#com.material.components.activity.shopping.ShoppingProductAdvDetails
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:417:9-419:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:419:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:418:13-72
+activity#com.material.components.activity.sliderimage.SliderImageHeader
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:420:9-422:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:422:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:421:13-67
+activity#com.material.components.activity.sliderimage.SliderImageHeaderAuto
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:423:9-425:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:425:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:424:13-71
+activity#com.material.components.activity.sliderimage.SliderImageCard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:426:9-428:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:428:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:427:13-65
+activity#com.material.components.activity.sliderimage.SliderImageCardAuto
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:429:9-431:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:431:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:430:13-69
+activity#com.material.components.activity.player.PlayerMusicBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:432:9-434:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:434:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:433:13-61
+activity#com.material.components.activity.player.PlayerMusicLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:435:9-437:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:437:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:436:13-61
+activity#com.material.components.activity.player.PlayerMusicAlbumDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:438:9-440:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:440:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:439:13-65
+activity#com.material.components.activity.player.PlayerMusicAlbumCircle
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:441:9-443:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:443:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:442:13-67
+activity#com.material.components.activity.player.PlayerMusicAlbumSimple
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:444:9-446:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:446:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:445:13-67
+activity#com.material.components.activity.player.PlayerMusicSongList
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:447:9-449:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:449:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:448:13-64
+activity#com.material.components.activity.player.PlayerMusicTabs
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:450:9-452:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:452:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:451:13-60
+activity#com.material.components.activity.player.PlayerMusicTabsIcon
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:453:9-455:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:455:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:454:13-64
+activity#com.material.components.activity.player.PlayerMusicAlbumGrid
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:456:9-458:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:458:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:457:13-65
+activity#com.material.components.activity.timeline.TimelineFeed
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:459:9-461:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:461:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:460:13-59
+activity#com.material.components.activity.timeline.TimelinePath
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:462:9-464:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:464:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:463:13-59
+activity#com.material.components.activity.timeline.TimelineTwitter
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:465:9-467:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:467:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:466:13-62
+activity#com.material.components.activity.timeline.TimelineSimple
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:468:9-470:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:470:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:469:13-61
+activity#com.material.components.activity.timeline.TimelineDotCard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:471:9-473:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:473:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:472:13-62
+activity#com.material.components.activity.settings.SettingProfile
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:474:9-476:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:476:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:475:13-61
+activity#com.material.components.activity.settings.SettingSectioned
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:477:9-479:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:479:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:478:13-63
+activity#com.material.components.activity.settings.SettingFlat
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:480:9-482:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:482:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:481:13-58
+activity#com.material.components.activity.settings.SettingProfileLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:483:9-485:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:485:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:484:13-66
+activity#com.material.components.activity.verification.VerificationPhone
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:486:9-488:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:488:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:487:13-68
+activity#com.material.components.activity.verification.VerificationCode
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:489:9-491:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:491:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:490:13-67
+activity#com.material.components.activity.verification.VerificationHeader
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:492:9-494:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:494:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:493:13-69
+activity#com.material.components.activity.verification.VerificationImage
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:495:9-497:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:497:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:496:13-68
+activity#com.material.components.activity.verification.VerificationOrange
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:498:9-500:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:500:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:499:13-69
+activity#com.material.components.activity.verification.VerificationBlue
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:501:9-503:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:503:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:502:13-67
+activity#com.material.components.activity.login.LoginSimpleLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:504:9-506:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:506:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:505:13-60
+activity#com.material.components.activity.login.LoginSimpleGreen
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:507:9-509:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:509:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:508:13-60
+activity#com.material.components.activity.login.LoginImageTeal
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:510:9-512:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:512:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:511:13-58
+activity#com.material.components.activity.login.LoginCardLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:513:9-515:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:515:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:514:13-58
+activity#com.material.components.activity.login.LoginCardOverlap
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:516:9-518:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:518:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:517:13-60
+activity#com.material.components.activity.login.LoginSimpleDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:519:9-521:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:521:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:520:13-59
+activity#com.material.components.activity.payment.PaymentProfile
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:522:9-524:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:524:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:523:13-60
+activity#com.material.components.activity.payment.PaymentForm
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:525:9-527:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:527:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:526:13-57
+activity#com.material.components.activity.payment.PaymentCardCollections
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:528:9-530:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:530:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:529:13-68
+activity#com.material.components.activity.payment.PaymentCardDetails
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:531:9-533:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:533:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:532:13-64
+activity#com.material.components.activity.payment.PaymentSuccessDialog
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:534:9-536:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:536:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:535:13-66
+activity#com.material.components.activity.progressactivity.ProgressDotsBounce
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:537:9-539:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:539:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:538:13-73
+activity#com.material.components.activity.progressactivity.ProgressDotsFade
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:540:9-542:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:542:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:541:13-71
+activity#com.material.components.activity.progressactivity.ProgressDotsGrow
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:543:9-545:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:545:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:544:13-71
+activity#com.material.components.activity.profile.ProfileFabMenu
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:546:9-548:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:548:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:547:13-60
+activity#com.material.components.activity.profile.ProfileCardList
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:549:9-551:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:551:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:550:13-61
+activity#com.material.components.activity.bottomnavigation.BottomNavigationPrimary
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:552:9-554:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:554:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:553:13-78
+activity#com.material.components.activity.bottomnavigation.BottomNavigationMapBlue
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:555:9-557:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:557:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:556:13-78
+activity#com.material.components.activity.dashboard.DashboardGridFab
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:558:9-560:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:560:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:559:13-64
+activity#com.material.components.activity.dashboard.DashboardStatistics
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:561:9-563:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:563:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:562:13-67
+activity#com.material.components.activity.player.PlayerMusicGenre
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:564:9-566:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:566:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:565:13-61
+activity#com.material.components.activity.player.PlayerMusicGenreImage
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:567:9-569:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:569:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:568:13-66
+activity#com.material.components.activity.player.PlayerMusicGenreLight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:570:9-572:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:572:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:571:13-66
+activity#com.material.components.activity.dashboard.DashboardPayBill
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:573:9-575:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:575:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:574:13-64
+activity#com.material.components.activity.dashboard.DashboardFlight
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:576:9-578:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:578:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:577:13-63
+activity#com.material.components.activity.article.ArticleMedium
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:579:9-581:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:581:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:580:13-59
+activity#com.material.components.activity.article.ArticleMediumDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:582:9-584:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:584:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:583:13-63
+activity#com.material.components.activity.article.ArticleBigHeader
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:585:9-587:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:587:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:586:13-62
+activity#com.material.components.activity.article.ArticleStepper
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:588:9-590:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:590:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:589:13-60
+activity#com.material.components.activity.article.ArticleFood
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:591:9-593:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:593:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:592:13-57
+activity#com.material.components.activity.article.ArticleSimple
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:594:9-596:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:596:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:595:13-59
+activity#com.material.components.activity.article.ArticleCard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:597:9-599:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:599:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:598:13-57
+activity#com.material.components.activity.article.ArticleFoodReview
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:600:9-602:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:602:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:601:13-63
+activity#com.material.components.activity.shopping.ShoppingCartSimple
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:603:9-605:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:605:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:604:13-65
+activity#com.material.components.activity.shopping.ShoppingCartCard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:606:9-608:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:608:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:607:13-63
+activity#com.material.components.activity.shopping.ShoppingCartCardDark
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:609:9-611:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:611:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:610:13-67
+activity#com.material.components.activity.shopping.ShoppingCheckoutStep
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:612:9-614:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:614:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:613:13-67
+activity#com.material.components.activity.shopping.ShoppingCheckoutTimeline
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:615:9-617:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:617:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:616:13-71
+activity#com.material.components.activity.shopping.ShoppingCheckoutOnePage
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:618:9-620:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:620:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:619:13-70
+activity#com.material.components.activity.dialog.DialogGDPRBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:621:9-623:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:623:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:622:13-60
+activity#com.material.components.activity.dialog.DialogTermOfServices
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:624:9-626:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:626:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:625:13-65
+activity#com.material.components.activity.dialog.DialogHeader
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:627:9-629:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:629:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:628:13-57
+activity#com.material.components.activity.dialog.DialogImage
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:630:9-632:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:632:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:631:13-56
+activity#com.material.components.activity.about.AboutDialogMainAction
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:633:9-635:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:635:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:634:13-65
+activity#com.material.components.activity.about.AboutCompany
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:636:9-638:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:638:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:637:13-56
+activity#com.material.components.activity.about.AboutCompanyImage
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:639:9-641:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:641:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:640:13-61
+activity#com.material.components.activity.about.AboutCompanyCard
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:642:9-644:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:644:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:643:13-60
+activity#com.material.components.activity.about.AboutApp
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:645:9-647:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:647:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:646:13-52
+activity#com.material.components.activity.about.AboutAppSimple
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:648:9-650:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:650:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:649:13-58
+activity#com.material.components.activity.about.AboutAppSimpleBlue
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:651:9-653:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:653:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:652:13-62
+activity#com.material.components.activity.player.PlayerVideoBasic
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:654:9-656:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:656:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:655:13-61
+activity#com.material.components.activity.player.PlayerVideoSimple
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:657:9-659:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:659:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:658:13-62
+activity#com.material.components.activity.search.SearchFilterHotel
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:660:9-662:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:662:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:661:13-62
+activity#com.material.components.activity.search.SearchFilterProduct
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:663:9-665:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:665:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:664:13-64
+activity#com.material.components.activity.search.SearchFilterProperty
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:666:9-668:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:668:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:667:13-65
+activity#com.material.components.activity.dashboard.DashboardFinance
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:669:9-671:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:671:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:670:13-64
+activity#com.material.components.activity.dashboard.DashboardCryptocurrency
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:672:9-674:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:674:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:673:13-71
+activity#com.material.components.activity.dashboard.DashboardWallet
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:675:9-677:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:677:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:676:13-63
+activity#com.material.components.activity.dashboard.DashboardWalletGreen
+ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:678:9-680:52
+	android:screenOrientation
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:680:13-49
+	android:name
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml:679:13-68
+uses-sdk
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+MERGED from [com.wdullaer:materialdatetimepicker:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/54bbccd273fbdd20d1df5d02628ab960/AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/54bbccd273fbdd20d1df5d02628ab960/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/96876ee8be2ba5513f398d27cfb74f37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/96876ee8be2ba5513f398d27cfb74f37/AndroidManifest.xml:20:5-44
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.5] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.5.aar/bc5cfdb6c894105c6df7794940b7a5e0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.5] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.5.aar/bc5cfdb6c894105c6df7794940b7a5e0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crystal:crystalrangeseekbar:1.1.3] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/crystalrangeseekbar-1.1.3.aar/19ed9995c435b470ef619c91379ffaf9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crystal:crystalrangeseekbar:1.1.3] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/crystalrangeseekbar-1.1.3.aar/19ed9995c435b470ef619c91379ffaf9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fa77c8a020d454cc13f1756a2db68601/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fa77c8a020d454cc13f1756a2db68601/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/64b3559054222d19f454f9c4fa9928e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/64b3559054222d19f454f9c4fa9928e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/70d629851f1d9399f078daad3408a59a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/70d629851f1d9399f078daad3408a59a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/c06bae46246d1ad3ef6f31d6b51f3c19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/c06bae46246d1ad3ef6f31d6b51f3c19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c19f4fb66fd7babea5c838cbedb60e59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c19f4fb66fd7babea5c838cbedb60e59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c86791ef0acdbcb534de560818aafc7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c86791ef0acdbcb534de560818aafc7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2050bc1720baafb654e2e66c82a91ac7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2050bc1720baafb654e2e66c82a91ac7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/c79bebd6d70e7a68a5901d61d5ed2c03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/c79bebd6d70e7a68a5901d61d5ed2c03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:20:5-44
+MERGED from [com.balysv:material-ripple:1.0.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/e39f52c84ebc94b81228a285201f230a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv:material-ripple:1.0.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/material-ripple-1.0.2.aar/e39f52c84ebc94b81228a285201f230a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/circularimageview-3.2.0.aar/86b95e11b2e0ebfc1d2f3489e54764e7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/circularimageview-3.2.0.aar/86b95e11b2e0ebfc1d2f3489e54764e7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hootsuite.android:nachos:1.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/nachos-1.1.1.aar/de78c88f41f8d1613be3c3f2cb40bdb0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hootsuite.android:nachos:1.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/nachos-1.1.1.aar/de78c88f41f8d1613be3c3f2cb40bdb0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android:flexbox:0.3.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/flexbox-0.3.2.aar/5f229f62d812b3afc6c85c595a026611/AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android:flexbox:0.3.2] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/flexbox-0.3.2.aar/5f229f62d812b3afc6c85c595a026611/AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/5e3bb961c0765b5b48242135451fa377/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/5e3bb961c0765b5b48242135451fa377/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/d630ff6c57307763d1369d3e3ad9c2eb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/d630ff6c57307763d1369d3e3ad9c2eb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c99f066f11e11457d8ec7155fa2de9a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c99f066f11e11457d8ec7155fa2de9a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b202dcd5e65da26b5b24245136d20f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b202dcd5e65da26b5b24245136d20f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bc0517571293470d8692130dabd2c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bc0517571293470d8692130dabd2c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/67aa9a1d0b2206e0fb08ced21c811ef5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/67aa9a1d0b2206e0fb08ced21c811ef5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d93e0b2ec8c48827854fa85553e80ad9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d93e0b2ec8c48827854fa85553e80ad9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3eb7001e3128932e81f7cc1bc08c5a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3eb7001e3128932e81f7cc1bc08c5a53/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.5.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/da2f1186d5a7ec682267b3962ad1fb8a/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/da2f1186d5a7ec682267b3962ad1fb8a/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3b4b51c1c37f508a1ab24665303cea7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3b4b51c1c37f508a1ab24665303cea7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5376f187190e004af2169e91f3b608f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5376f187190e004af2169e91f3b608f6/AndroidManifest.xml:20:5-44
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/c0bc107829b24bd677fd41bd75f8aeb8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/c0bc107829b24bd677fd41bd75f8aeb8/AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/6627805fb95ef7b60aeb81d07fad3c09/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/6627805fb95ef7b60aeb81d07fad3c09/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4bcc48127e984fe5781cb10621598d48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4bcc48127e984fe5781cb10621598d48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6bcb22a14ae9cb063e8a6b821a666dfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6bcb22a14ae9cb063e8a6b821a666dfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e68f2d5464b154af31bae97ad1760eaa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e68f2d5464b154af31bae97ad1760eaa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/64577ec3ee5b3fe30908ea635b109b1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/64577ec3ee5b3fe30908ea635b109b1a/AndroidManifest.xml:20:5-44
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+		ADDED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/appinventiv/Downloads/MaterialX/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/54bbccd273fbdd20d1df5d02628ab960/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:3.2.0] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/54bbccd273fbdd20d1df5d02628ab960/AndroidManifest.xml:26:22-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/01122b96961da8fcc778f0adf61f1743/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/84f95817ac23079275715e6597e42253/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c99f066f11e11457d8ec7155fa2de9a8/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c99f066f11e11457d8ec7155fa2de9a8/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/appinventiv/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c99f066f11e11457d8ec7155fa2de9a8/AndroidManifest.xml:24:13-58
